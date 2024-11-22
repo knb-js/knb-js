@@ -5,15 +5,15 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Full-Stack+Developer;specialized+in+Java+and+React" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Full-Stack+Developer;Java+and+React" alt="Headline" />
     </div>
     <div align=left>
         <br>
         <p>
             <strong>
                 Software Engineer, Full-Stack Developer, Problem Solver, Freelancer, and Open-Source Enthusiast.
-                I specialize in Java with Spring and have experience working with various technologies. I am proficient in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and                   Problem Solving skills. Additionally, I am experienced in using Spring Boot for creating robust back-end services, and I have a solid understanding of securing APIs with Spring Security.<br><br>
-                I am passionate developer specialize in Java, Full-Stack Technologies, spring, react, linux, AWS, MYSQL.<br><br>
+                I specialized in Java with Spring and have experience working with various technologies. I am proficient in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills. Additionally, I am experienced in using Spring Boot for creating robust back-end services, and I have a solid understanding of securing APIs with Spring Security.<br><br>
+                I am passionate developer Full-Stack my technologies: spring, react, linux, AWS, MYSQL.<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
         </p>
