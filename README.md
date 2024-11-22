@@ -19,7 +19,7 @@
         </p>
         <ul>
             <li>🌱 <b>I’m currently learning</b>: multiple Stack for Scalable Applications.</li>
-            <li>💬 <b>Ask me about anything</b>: **AWS, React, Spring, MYSQL** </li>
+            <li>💬 <b>Ask me about anything</b>: AWS, React, Spring, MYSQL </li>
             <li>📫 <b>How to reach me</b>: kahlilnunez99@gmail.com</li>
         </ul>
     </div>
