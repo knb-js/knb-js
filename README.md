@@ -19,7 +19,7 @@
             <strong>
                 Software Engineer, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.
                 I specialize in Java with Spring and have experience working with various technologies. I am proficient in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and                   Problem Solving skills. Additionally, I am experienced in using Spring Boot for creating robust back-end services, and I have a solid understanding of securing APIs with Spring Security.<br><br>
-                I am passionate about learning Java, all Full-Stack Technologies, spring, react, linux, cloud.<br><br>
+                I am passionate developer specialize in Java, Full-Stack Technologies, spring, react, linux, AWS, MYSQL.<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
         </p>
