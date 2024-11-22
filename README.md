@@ -18,13 +18,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, SpringBoot, MYSQL**
+- 🔭 I’m currently working on **AWS, React, Spring, MYSQL**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 💬 Ask me about **AWS, React, SpringBoot, MYSQL**
+- 💬 Ask me about **AWS, React, Spring, MYSQL**
 
 - 📫 Feel free to reach me out **kahlilnunez99@gmail.com**
 <!--Intro end-->
@@ -74,7 +74,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,docker,postgres,prisma,express,figma,firebase,redis,github,html,java,spring,js,nestjs,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,docker,postgres,prisma,express,figma,firebase,github,html,java,spring,js,nestjs,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
